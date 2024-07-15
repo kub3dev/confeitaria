@@ -1,3 +1,12 @@
+## [0.5.1](https://github.com/kub3dev/confeitaria/compare/0.5.0...0.5.1) (2024-07-15)
+
+
+### Bug Fixes
+
+* changed step name ([b10444b](https://github.com/kub3dev/confeitaria/commit/b10444b0c48e3f61bdfb8daf33efb3f6b30c9c65))
+
+
+
 # [0.5.0](https://github.com/kub3dev/confeitaria/compare/0.4.2...0.5.0) (2024-07-15)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * test ([889edc0](https://github.com/kub3dev/confeitaria/commit/889edc0c20cb3dc9543105c0594656e34de6c1af))
-
-
-
-# [0.3.0](https://github.com/kub3dev/confeitaria/compare/v0.2.0...v0.3.0) (2024-07-15)
-
-
-### Features
-
-* create pipeline script ([05ad495](https://github.com/kub3dev/confeitaria/commit/05ad495f10b987353034e3d61ba883d4d7abd9b4))
 
 
 
