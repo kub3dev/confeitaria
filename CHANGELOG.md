@@ -1,3 +1,12 @@
+## [0.4.2](https://github.com/kub3dev/confeitaria/compare/0.4.1...0.4.2) (2024-07-15)
+
+
+### Bug Fixes
+
+* changed git actions name ([ce0f374](https://github.com/kub3dev/confeitaria/commit/ce0f374d416bf51ee9fa13da6b76acf7384f397f))
+
+
+
 ## [0.4.1](https://github.com/kub3dev/confeitaria/compare/0.4.0...0.4.1) (2024-07-15)
 
 
