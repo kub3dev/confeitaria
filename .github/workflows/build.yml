@@ -9,7 +9,7 @@ on:
 
 env:
   IMAGE_NAME: "harbor.kub3.dev/kub3dev/confeitaria"
-  BUILD_NUMBER: "$(date '+%Y.%-m.%-d.%-H.%-M.%-S')"
+  BUILD_NUMBER: (date '+%Y.%-m.%-d.%-H.%-M.%-S')
 
 jobs:
   analyze:
