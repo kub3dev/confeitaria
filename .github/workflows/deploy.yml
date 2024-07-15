@@ -4,6 +4,9 @@ on:
   registry_package:
     types: [published]
 
+  # This workflow dispatch, allows us to execute this workflow manually
+  workflow_dispatch:
+
 env:
   IMAGE_NAME: "harbor.kub3.dev/kub3dev/confeitaria"
 
