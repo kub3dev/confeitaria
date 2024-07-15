@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/kub3dev/confeitaria/compare/0.4.0...0.4.1) (2024-07-15)
+
+
+### Bug Fixes
+
+* add manual control ([6c4e2d7](https://github.com/kub3dev/confeitaria/commit/6c4e2d702387bb7142b5d72b4ca6d8d98916eea8))
+
+
+
 # [0.4.0](https://github.com/kub3dev/confeitaria/compare/v0.3.0...0.4.0) (2024-07-15)
 
 
