@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/kub3dev/confeitaria/compare/v0.3.0...0.4.0) (2024-07-15)
+
+
+### Features
+
+* test ([889edc0](https://github.com/kub3dev/confeitaria/commit/889edc0c20cb3dc9543105c0594656e34de6c1af))
+
+
+
 # [0.3.0](https://github.com/kub3dev/confeitaria/compare/v0.2.0...v0.3.0) (2024-07-15)
 
 
