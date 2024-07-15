@@ -1,4 +1,13 @@
-# 0.2.0 (2024-07-15)
+# [0.3.0](https://github.com/kub3dev/confeitaria/compare/v0.2.0...v0.3.0) (2024-07-15)
+
+
+### Features
+
+* create pipeline script ([05ad495](https://github.com/kub3dev/confeitaria/commit/05ad495f10b987353034e3d61ba883d4d7abd9b4))
+
+
+
+# [0.2.0](https://github.com/kub3dev/confeitaria/compare/0eed31bb6dd6047333211faf4371c8fe5cd005ec...v0.2.0) (2024-07-15)
 
 
 ### Bug Fixes
