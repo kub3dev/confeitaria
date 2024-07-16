@@ -1,3 +1,12 @@
+## [0.5.12](https://github.com/kub3dev/confeitaria/compare/0.5.11...0.5.12) (2024-07-16)
+
+
+### Bug Fixes
+
+* changed image name ([96dee32](https://github.com/kub3dev/confeitaria/commit/96dee325f9c7c96d72c76b625fcdc924af6aca71))
+
+
+
 ## [0.5.11](https://github.com/kub3dev/confeitaria/compare/0.5.10...0.5.11) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * changed pipeline's name ([a372130](https://github.com/kub3dev/confeitaria/commit/a372130283b7d9e56f78b351fb3d91c45f9a2f56))
-
-
-
-## [0.5.7](https://github.com/kub3dev/confeitaria/compare/0.5.6...0.5.7) (2024-07-16)
-
-
-### Bug Fixes
-
-* changed deploy name ([bd1e973](https://github.com/kub3dev/confeitaria/commit/bd1e97322cc2a0d15076401b77b49a9e4451b294))
 
 
 
