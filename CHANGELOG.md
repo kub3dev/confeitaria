@@ -1,3 +1,12 @@
+## [0.5.7](https://github.com/kub3dev/confeitaria/compare/0.5.6...0.5.7) (2024-07-16)
+
+
+### Bug Fixes
+
+* changed deploy name ([bd1e973](https://github.com/kub3dev/confeitaria/commit/bd1e97322cc2a0d15076401b77b49a9e4451b294))
+
+
+
 ## [0.5.6](https://github.com/kub3dev/confeitaria/compare/0.5.5...0.5.6) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * deploy ([535dc7f](https://github.com/kub3dev/confeitaria/commit/535dc7f973b7d43ffcfc9ebda24ccdfd7afb2533))
-
-
-
-## [0.5.2](https://github.com/kub3dev/confeitaria/compare/0.5.1...0.5.2) (2024-07-16)
-
-
-### Bug Fixes
-
-* changed repository name ([6743de1](https://github.com/kub3dev/confeitaria/commit/6743de1aa1db17c62e02ea110cb70b1bd640102f))
 
 
 
