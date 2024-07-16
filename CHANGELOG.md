@@ -1,3 +1,12 @@
+## [0.5.4](https://github.com/kub3dev/confeitaria/compare/0.5.3...0.5.4) (2024-07-16)
+
+
+### Bug Fixes
+
+* build ([08191f7](https://github.com/kub3dev/confeitaria/commit/08191f77a391e8c68d83c9ffa330b5f12a7f8e8d))
+
+
+
 ## [0.5.3](https://github.com/kub3dev/confeitaria/compare/0.5.2...0.5.3) (2024-07-16)
 
 
@@ -32,15 +41,6 @@
 
 * add commit linting ([1b55216](https://github.com/kub3dev/confeitaria/commit/1b55216cb3a2c0e8005f5e390699b06096fe8fa8))
 * create release script ([fdbdb32](https://github.com/kub3dev/confeitaria/commit/fdbdb322b06c07abe34ef058aac830570dfe9224))
-
-
-
-## [0.4.2](https://github.com/kub3dev/confeitaria/compare/0.4.1...0.4.2) (2024-07-15)
-
-
-### Bug Fixes
-
-* changed git actions name ([ce0f374](https://github.com/kub3dev/confeitaria/commit/ce0f374d416bf51ee9fa13da6b76acf7384f397f))
 
 
 
