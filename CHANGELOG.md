@@ -1,3 +1,12 @@
+## [0.5.3](https://github.com/kub3dev/confeitaria/compare/0.5.2...0.5.3) (2024-07-16)
+
+
+### Bug Fixes
+
+* deploy ([535dc7f](https://github.com/kub3dev/confeitaria/commit/535dc7f973b7d43ffcfc9ebda24ccdfd7afb2533))
+
+
+
 ## [0.5.2](https://github.com/kub3dev/confeitaria/compare/0.5.1...0.5.2) (2024-07-16)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * changed git actions name ([ce0f374](https://github.com/kub3dev/confeitaria/commit/ce0f374d416bf51ee9fa13da6b76acf7384f397f))
-
-
-
-## [0.4.1](https://github.com/kub3dev/confeitaria/compare/0.4.0...0.4.1) (2024-07-15)
-
-
-### Bug Fixes
-
-* add manual control ([6c4e2d7](https://github.com/kub3dev/confeitaria/commit/6c4e2d702387bb7142b5d72b4ca6d8d98916eea8))
 
 
 
