@@ -1,3 +1,12 @@
+## [0.5.13](https://github.com/kub3dev/confeitaria/compare/0.5.12...0.5.13) (2024-07-16)
+
+
+### Bug Fixes
+
+* build ([52fbdeb](https://github.com/kub3dev/confeitaria/commit/52fbdeb4f2103da70b223204ac9ebf8025117e32))
+
+
+
 ## [0.5.12](https://github.com/kub3dev/confeitaria/compare/0.5.11...0.5.12) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * changed pipeline ([221213a](https://github.com/kub3dev/confeitaria/commit/221213a5fd8ca0589f21effbeb3a25f021a6c2bc))
-
-
-
-## [0.5.8](https://github.com/kub3dev/confeitaria/compare/0.5.7...0.5.8) (2024-07-16)
-
-
-### Bug Fixes
-
-* changed pipeline's name ([a372130](https://github.com/kub3dev/confeitaria/commit/a372130283b7d9e56f78b351fb3d91c45f9a2f56))
 
 
 
