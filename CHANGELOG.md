@@ -1,3 +1,12 @@
+## [0.5.15](https://github.com/kub3dev/confeitaria/compare/0.5.14...0.5.15) (2024-07-16)
+
+
+### Bug Fixes
+
+* pipeline files ([1c9e123](https://github.com/kub3dev/confeitaria/commit/1c9e12336cd6b3d484ec1745972900430911eb4a))
+
+
+
 ## [0.5.14](https://github.com/kub3dev/confeitaria/compare/0.5.13...0.5.14) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * changed font family ([6571091](https://github.com/kub3dev/confeitaria/commit/65710913e314acb048f5e85fa402089bcb5e29dd))
-
-
-
-## [0.5.10](https://github.com/kub3dev/confeitaria/compare/0.5.9...0.5.10) (2024-07-16)
-
-
-### Bug Fixes
-
-* desfazimento ([412b28f](https://github.com/kub3dev/confeitaria/commit/412b28f85542abba0bf0ba1d39d6eb9a376f59f3))
 
 
 
