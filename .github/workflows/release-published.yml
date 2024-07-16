@@ -1,0 +1,19 @@
+name: Release published
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out the repo
+        uses: actions/checkout@v4
+      - name: get-npm-version
+        id: package-version
+        uses: martinbeentjes/npm-get-version-action@master
+      - name: Print version
+        run: |
+          echo "Version: ${{ steps.package-version.outputs.npm-version }}"
