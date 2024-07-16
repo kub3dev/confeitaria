@@ -1,3 +1,12 @@
+## [0.5.11](https://github.com/kub3dev/confeitaria/compare/0.5.10...0.5.11) (2024-07-16)
+
+
+### Bug Fixes
+
+* changed font family ([6571091](https://github.com/kub3dev/confeitaria/commit/65710913e314acb048f5e85fa402089bcb5e29dd))
+
+
+
 ## [0.5.10](https://github.com/kub3dev/confeitaria/compare/0.5.9...0.5.10) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * changed deploy name ([bd1e973](https://github.com/kub3dev/confeitaria/commit/bd1e97322cc2a0d15076401b77b49a9e4451b294))
-
-
-
-## [0.5.6](https://github.com/kub3dev/confeitaria/compare/0.5.5...0.5.6) (2024-07-16)
-
-
-### Bug Fixes
-
-* build ([2e6bf84](https://github.com/kub3dev/confeitaria/commit/2e6bf84fbe69b29054c1825fb365bbc6913bfc47))
 
 
 
