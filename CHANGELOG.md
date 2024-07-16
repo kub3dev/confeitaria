@@ -1,3 +1,12 @@
+## [0.5.2](https://github.com/kub3dev/confeitaria/compare/0.5.1...0.5.2) (2024-07-16)
+
+
+### Bug Fixes
+
+* changed repository name ([6743de1](https://github.com/kub3dev/confeitaria/commit/6743de1aa1db17c62e02ea110cb70b1bd640102f))
+
+
+
 ## [0.5.1](https://github.com/kub3dev/confeitaria/compare/0.5.0...0.5.1) (2024-07-15)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * add manual control ([6c4e2d7](https://github.com/kub3dev/confeitaria/commit/6c4e2d702387bb7142b5d72b4ca6d8d98916eea8))
-
-
-
-# [0.4.0](https://github.com/kub3dev/confeitaria/compare/v0.3.0...0.4.0) (2024-07-15)
-
-
-### Features
-
-* test ([889edc0](https://github.com/kub3dev/confeitaria/commit/889edc0c20cb3dc9543105c0594656e34de6c1af))
 
 
 
