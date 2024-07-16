@@ -91,9 +91,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
-        with:
-          branch: main
-          fetch-depth: 0
+      # switch to the main branch
+      - name: switch to new branch
+        run: git checkout main
 
       - name: Get package version
         id: package-version
