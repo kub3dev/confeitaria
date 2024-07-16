@@ -1,3 +1,12 @@
+## [0.5.17](https://github.com/kub3dev/confeitaria/compare/0.5.16...0.5.17) (2024-07-16)
+
+
+### Bug Fixes
+
+* release ([f63776d](https://github.com/kub3dev/confeitaria/commit/f63776dc03cfd331304b0474954e9df9d574fa94))
+
+
+
 ## [0.5.16](https://github.com/kub3dev/confeitaria/compare/0.5.15...0.5.16) (2024-07-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * build ([52fbdeb](https://github.com/kub3dev/confeitaria/commit/52fbdeb4f2103da70b223204ac9ebf8025117e32))
-
-
-
-## [0.5.12](https://github.com/kub3dev/confeitaria/compare/0.5.11...0.5.12) (2024-07-16)
-
-
-### Bug Fixes
-
-* changed image name ([96dee32](https://github.com/kub3dev/confeitaria/commit/96dee325f9c7c96d72c76b625fcdc924af6aca71))
 
 
 
