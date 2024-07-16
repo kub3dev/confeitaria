@@ -24,7 +24,7 @@ jobs:
       - name: Checkout CD repo
         uses: actions/checkout@v3
         with:
-          repository: github.com/kub3dev/devops.git
+          repository: kub3dev/devops
           ref: "main"
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: setup git config
