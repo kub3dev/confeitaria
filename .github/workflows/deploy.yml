@@ -26,7 +26,7 @@ jobs:
         with:
           repository: kub3dev/devops.git
           ref: "main"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.CD_ACTIONS_GITHUB_TOKEN }}
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
