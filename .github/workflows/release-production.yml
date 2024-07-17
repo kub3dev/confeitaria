@@ -84,25 +84,12 @@ jobs:
           name: ${{ steps.changelog.outputs.tag }}
           body: ${{ steps.changelog.outputs.clean_changelog }}
 
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    needs: release
-    steps:
-      - name: checkout
-        uses: actions/checkout@v3
-      # switch to the main branch
-      - name: switch to new branch
-        run: git checkout main
-
-      - name: Get package version
-        id: package-version
-        uses: martinbeentjes/npm-get-version-action@master
-
       - name: Setup Docker buildx
+        if: steps.changelog.outputs.skipped == 'false'
         uses: docker/setup-buildx-action@v3
 
       - name: login to GitHub Container Registry
+        if: steps.changelog.outputs.skipped == 'false'
         uses: docker/login-action@v3
         with:
           registry: harbor.kub3.dev
@@ -110,11 +97,12 @@ jobs:
           password: ${{ secrets.DOCKER_HUB_PASSWORD }}
 
       - name: push to Github Container Registry
+        if: steps.changelog.outputs.skipped == 'false'
         uses: docker/build-push-action@v6
         with:
           context: .
           file: ./.nixpacks/Dockerfile
           push: true
           tags: |
-            ${{ vars.IMAGE_NAME }}:${{ steps.package-version.outputs.current-version }}
+            ${{ vars.IMAGE_NAME }}:${{ steps.changelog.outputs.tag }}
             ${{ vars.IMAGE_NAME }}:latest
