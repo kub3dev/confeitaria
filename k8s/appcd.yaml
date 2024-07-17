@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: confeitei-app
+  name: argocd-confeitei-app
   namespace: argocd
   finalizers:
     - resources-finalizer.argocd.argoproj.io
@@ -10,7 +10,7 @@ spec:
   source:
     repoURL: https://github.com/kub3dev/confeitaria.git
     targetRevision: HEAD
-    path: /k8s/app
+    path: k8s/app
   destination:
     server: https://kubernetes.default.svc
     namespace: production
