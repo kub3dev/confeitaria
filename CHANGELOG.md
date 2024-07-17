@@ -1,3 +1,12 @@
+## [0.5.23](https://github.com/kub3dev/confeitaria/compare/0.5.22...0.5.23) (2024-07-17)
+
+
+### Bug Fixes
+
+* confeitei argo app ([cac206d](https://github.com/kub3dev/confeitaria/commit/cac206d89e19781ebe70fe54a1bfe2952809ff8d))
+
+
+
 ## [0.5.22](https://github.com/kub3dev/confeitaria/compare/0.5.21...0.5.22) (2024-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * changes ([191fb19](https://github.com/kub3dev/confeitaria/commit/191fb19b212eee155b8a326539186fa18336c610))
-
-
-
-## [0.5.18](https://github.com/kub3dev/confeitaria/compare/0.5.17...0.5.18) (2024-07-16)
-
-
-### Bug Fixes
-
-* pipeline files ([4947bd7](https://github.com/kub3dev/confeitaria/commit/4947bd7aa2330f344582f5a2ef4ffa52aff104ab))
 
 
 
