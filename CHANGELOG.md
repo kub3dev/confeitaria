@@ -1,3 +1,12 @@
+## [0.5.25](https://github.com/kub3dev/confeitaria/compare/0.5.24...0.5.25) (2024-07-17)
+
+
+### Bug Fixes
+
+* ingress file ([88e4c31](https://github.com/kub3dev/confeitaria/commit/88e4c31f7713029ce03bb5b8a5404b87fbb1d224))
+
+
+
 ## [0.5.24](https://github.com/kub3dev/confeitaria/compare/0.5.23...0.5.24) (2024-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * test ([63771b2](https://github.com/kub3dev/confeitaria/commit/63771b20fd6333bc9dd8163e369a9c875c108e58))
-
-
-
-## [0.5.20](https://github.com/kub3dev/confeitaria/compare/0.5.19...0.5.20) (2024-07-16)
-
-
-### Bug Fixes
-
-* build ([47a6ae7](https://github.com/kub3dev/confeitaria/commit/47a6ae7ce03dd99cac11b1df93a414dad973edbb))
 
 
 
